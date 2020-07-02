@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color:blueviolet;
+}
+
+summary {
+    color:blueviolet;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
